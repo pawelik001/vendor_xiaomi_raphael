@@ -1308,6 +1308,7 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     camerax-vendor-extensions \
     tcmclient \
+    volley \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
     dpmapi \
