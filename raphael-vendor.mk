@@ -1394,6 +1394,7 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     ims \
     qcrilmsgtunnel \
+    chargeonlymode \
     camerax-vendor-extensions \
     tcmclient \
     volley \
